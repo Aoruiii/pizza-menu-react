@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+<img width="753" alt="image" src="https://github.com/Aoruiii/pizza-menu-react/assets/137977631/c1852697-f7ed-4384-b146-4a8f650cefdb">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
